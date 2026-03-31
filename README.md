@@ -1,2 +1,12 @@
-# python-learning-playground
-python-learning-playground
+# Python Learning Playground
+
+This repository contains small Python learning examples:
+
+- variables
+- strings
+- lists
+- math
+- tests
+
+## Run tests
+pytest
