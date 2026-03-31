@@ -3,3 +3,5 @@ def get_first(items):
 def add_item(items, item):
     items.append(item)
     return items
+def length(items):
+    return len(items)
